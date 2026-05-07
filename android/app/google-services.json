@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458578025810",
+    "project_id": "offline-first-sync-queue-app",
+    "storage_bucket": "offline-first-sync-queue-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458578025810:android:2fb8410d415b844740ae8b",
+        "android_client_info": {
+          "package_name": "com.example.offline_sync_queue_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIUd7ACH0-FR7sai9mQYuzDl49TYs7GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
